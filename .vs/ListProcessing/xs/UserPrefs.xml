@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{B3EA847C-A685-4F71-BE40-CE46C4679371}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListProcessing/ListProcessingApplication.cs">
+    <Files>
+      <File FileName="ListProcessing/ListProcessingApplication.cs" Line="19" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ListProcessing" expanded="True">
+            <Node name="ListProcessing" expanded="True">
+              <Node name="ListProcessing" expanded="True">
+                <Node name="ListProcessingApplication.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ListProcessing" expanded="True" selected="True">
+            <Node name="ListProcessing,Tests" expanded="True">
+              <Node name="ListProcessing.Tests" expanded="True">
+                <Node name="ListProcessing.Tests" expanded="True">
+                  <Node name="ListProcessApplicationTest" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ListProcessing_22CTests.ListProcessing.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

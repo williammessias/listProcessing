@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListProcessing", "ListProcessing\ListProcessing.csproj", "{2333DC68-E64C-440E-A573-65EA22E1C562}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ListProcessing,Tests", "ListProcessing,Tests", "{99AAE595-337C-48A2-A78E-5068FEEDEB1E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ListProcessing", "ListProcessing", "{18172593-40AC-46D2-8E83-D247100160B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListProcessing.Tests", "ListProcessing.Tests\ListProcessing.Tests.csproj", "{B3EA847C-A685-4F71-BE40-CE46C4679371}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2333DC68-E64C-440E-A573-65EA22E1C562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2333DC68-E64C-440E-A573-65EA22E1C562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2333DC68-E64C-440E-A573-65EA22E1C562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2333DC68-E64C-440E-A573-65EA22E1C562}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3EA847C-A685-4F71-BE40-CE46C4679371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3EA847C-A685-4F71-BE40-CE46C4679371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3EA847C-A685-4F71-BE40-CE46C4679371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3EA847C-A685-4F71-BE40-CE46C4679371}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0217B435-4649-4E82-8283-72FED1FADCB2}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2333DC68-E64C-440E-A573-65EA22E1C562} = {18172593-40AC-46D2-8E83-D247100160B5}
+		{B3EA847C-A685-4F71-BE40-CE46C4679371} = {99AAE595-337C-48A2-A78E-5068FEEDEB1E}
+	EndGlobalSection
+EndGlobal
